@@ -2,6 +2,9 @@
 name = "aural"
 version = "0.1.0"
 edition = "2024"
+description = "Native Linux music player with local library and OpenSubsonic/Navidrome support"
+license = "GPL-3.0-only"
+repository = "https://github.com/rugalo798/aural"
 
 [dependencies]
 anyhow = "1.0.104"

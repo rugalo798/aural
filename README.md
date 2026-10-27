@@ -112,6 +112,13 @@ decompilado, recursos, ícones, fontes, textos ou marcas de terceiros. Nomes de
 protocolos e recursos de interoperabilidade são usados apenas para descrever
 compatibilidade.
 
+## Licença
+
+Copyright (C) 2026 Aural contributors.
+
+Este projeto é distribuído sob a **GNU General Public License, versão 3.0**
+(`GPL-3.0-only`). O texto completo está em [LICENSE](LICENSE).
+
 ## Próximos passos
 
 - Busca remota no servidor e navegação por artistas remotos.
